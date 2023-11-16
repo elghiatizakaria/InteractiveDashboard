@@ -10,7 +10,7 @@ Streamlit is a popular Python library used for building interactive web applicat
 
 ⭐Content⭐
 
-In this video, you will learn: ⚡
+In Project, we will have: ⚡
 
 1.) Utilizing Streamlit to create interactive plots
 2.) Navigating and uploading raw data into the dashboard
@@ -47,5 +47,5 @@ Pandas and Plotly are powerful libraries that play essential roles in dashboard 
 3.) Intuitive Interactivity
 4.) Dash Integration
 
-In summary, Pandas and Plotly complement each other in dashboard development. Pandas helps with data manipulation, cleaning, and preprocessing, while Plotly enables interactive and visually appealing data visualizations. Together, they empower you to build powerful and insightful dashboards that effectively present and analyze data.
+In summary, Pandas and Plotly complement each other in dashboard development. Pandas helps with data manipulation, cleaning, and preprocessing, while Plotly enables interactive and visually appealing data visualizations.
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖

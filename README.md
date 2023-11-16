@@ -10,7 +10,7 @@ Streamlit is a popular Python library used for building interactive web applicat
 
 ⭐Content⭐
 
-In Project, we will have: ⚡
+In this Project, we will have: ⚡
 
 1.) Utilizing Streamlit to create interactive plots
 2.) Navigating and uploading raw data into the dashboard
